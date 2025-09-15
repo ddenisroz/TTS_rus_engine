@@ -1,0 +1,10 @@
+torch==2.4.0+cu124
+torchaudio==2.4.0+cu124
+f5-tts
+gradio
+whisper
+ruaccent
+numpy
+soundfile
+huggingface-hub
+omegaconf
