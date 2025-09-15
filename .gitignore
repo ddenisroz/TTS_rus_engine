@@ -49,3 +49,6 @@ audio_output/
 # Temporary files
 temp/
 tmp/
+
+# External repositories
+python-yoficator/
